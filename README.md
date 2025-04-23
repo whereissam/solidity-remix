@@ -2,7 +2,7 @@ Learn from [Remix](https://remix.ethereum.org/)
 
 ## Basic Syntax
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 // compiler version must be greater than or equal to 0.8.3 and less than 0.9.0
 pragma solidity ^0.8.3;
@@ -14,7 +14,7 @@ contract MyContract {
 
 ## Primitive Data Types
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -57,7 +57,7 @@ contract Primitives {
 
 ## Variables
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -81,7 +81,7 @@ contract Variables {
 
 ## Functions - Reading and Writing to a State Variable
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -107,7 +107,7 @@ contract SimpleStorage {
 ```
 ## 5.2 Functions - View and Pure
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -132,7 +132,7 @@ contract ViewAndPure {
 
 ## 5.3 Functions - Modifiers and Constructors
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -202,7 +202,7 @@ contract FunctionModifier {
 
 ## 5.4 Functions - Inputs and Outputs
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -294,7 +294,7 @@ b = true;
 
 ## 6. Visibility
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -369,7 +369,7 @@ contract Child is Base {
 
 ## 7.1 Control Flow - If/Else
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -403,7 +403,7 @@ contract IfElse {
 
 ## 7.2 Control Flow - Loops
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -435,7 +435,7 @@ contract Loop {
 
 ## 8.1 Data Structures - Arrays
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -513,7 +513,7 @@ contract CompactArray {
 
 ## 8.2 Data Structures - Mappings
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -565,7 +565,7 @@ contract NestedMapping {
 
 ## 8.3 Data Structures - Structs
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -621,7 +621,7 @@ contract Todos {
 
 ## 8.4 Data Structures - Enums
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -679,7 +679,7 @@ contract Enum {
 
 ## 9. Data Locations
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -728,7 +728,7 @@ contract DataLocations {
 
 ## 10.1 Transactions - Ether and Wei
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -748,7 +748,7 @@ contract EtherUnits {
 
 ## 10.2 Transactions - Gas and Gas Price
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
@@ -771,7 +771,7 @@ contract Gas {
 
 ## 10.3 Transactions - Sending Ether
 
-```solidity=
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
 
